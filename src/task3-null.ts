@@ -37,5 +37,5 @@ export function getErrorMessage(code: number | undefined): string {
   }
   else {
     return "Ошибка " + code
-  }
+  } 
 }
